@@ -1,4 +1,4 @@
-# Sintaxis y semántica de los Lenguajes
+# Sintaxis y Semántica de los Lenguajes
 
 - Curso: K2055
 - Año: 2023
